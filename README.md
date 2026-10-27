@@ -107,8 +107,8 @@ MimiDreams/
 **Requirements:** macOS with Xcode 16+ and an iOS 18.5 simulator or device.
 
 ```bash
-git clone https://github.com/EnzoFerroni/MIMI.git
-cd MIMI
+git clone https://github.com/EnzoFerroni/MimiDreams.git
+cd MimiDreams
 open MimiDreams.xcodeproj
 ```
 
